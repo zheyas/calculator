@@ -4,19 +4,19 @@ Description of your application. This project allows users to calculate the area
 ## Installation
 
 1. Clone the repository:
-  git clone https://github.com/your_username/your_repository.git
+  git clone  https://github.com/zheyas/calculator.git
 
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
       cd your_repository
 
 
-3. Create and activate a virtual environment:
+4. Create and activate a virtual environment:
   python -m venv .venv
   source .venv/bin/activate   # on MacOS/Linux
   .venv\Scripts\activate      # on Windows
 
-4. Install the dependencies:
+5. Install the dependencies:
       pip install -r requirements.txt
 
 
